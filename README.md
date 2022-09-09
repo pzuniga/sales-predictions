@@ -1,12 +1,16 @@
 # sales-predictions
 
-**uál es el desafío?**
+Predicción de ventas de productos alimenticios
+utilizando modelos de machine learning en Python
+Análisis de caso “BigMart Sales Prediction”
+
+**Cuál es el desafío?**
 
 Apoyar a la empresa distribuidora de productos alimenticios usando modelos de aprendizaje automático para hacer predicciones futuras de las ventas, basándose en los datos proporciones por él.
 
 **¿Cuáles son los datos proporcionados?**
 
-* oductos alimenticios
+* Poductos alimenticios
     Identificador único: 1.555 productos.
     Categoría de productos: 16 categorías
     Peso unitario
